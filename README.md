@@ -10,7 +10,7 @@ Uygulama, modern Android geliştirme standartlarına uygun olarak tamamen **Kotl
 * **Masa & Adisyon Yönetimi:** Masaların anlık doluluk durumları, hesap özeti, ürün silme/ekleme ve kasa kapatma işlemleri.
 * **Kesintisiz Çalışma:** Room DB mimarisi sayesinde internet bağlantısı gerektirmeden, sıfır gecikmeyle tam performanslı çalışma.
 
-## Kullanılan Teknolojiler (Tech Stack)
+## Kullanılan Teknolojiler
 * **Dil:** Kotlin
 * **Kullanıcı Arayüzü (UI):** Jetpack Compose
 * **Lokal Veritabanı:** Room Database (Data Aggregation & Complex Queries)
