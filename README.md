@@ -1,4 +1,4 @@
-# 🍽️ *Sempati*
+#  *Sempati*
 
 Sempati, restoranların masa durumlarını ve müşteri siparişlerini dijital ortamda, hızlı ve güvenilir bir şekilde yönetmelerini sağlayan modern bir Android uygulamasıdır. 
 
